@@ -95,6 +95,8 @@ website:
             text: Week 11 - Anomaly Detection
           - href: slides/week13/Lect11TimeSeriesI.pdf
             text: Week 13 - Time Series Analysis I
+          - href: slides/week15/Lect13TimeSeriesIII.pdf
+            text: Week 14 - Time Series Analysis II
       - section: "Readings"
         contents:
           - href: slides/week2/ch1DataMiningConceptual.pdf
@@ -117,8 +119,6 @@ website:
             text: Chps 1-2 - Pract Time Series
           - href: slides/week15/ch3_practTimeSeries.pdf
             text: Chp 3 - Pract Time Series
-          - href: slides/week16/Ch4_8IntroData MiningR.pdf
-            text: Chapter 4-8 Intro Data Mining in R
       - section: "R Exercises"
         contents:
           - href: slides/week1/week1-2-R-tutorial.qmd
